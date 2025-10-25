@@ -1,3 +1,4 @@
+<?php ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html lang="en"><head>
         <script type="text/javascript" async="" src="Problems%20-%20Codeforces_files/analytics.js"></script><script type="text/javascript" async="" src="Problems%20-%20Codeforces_files/js_002"></script><script async="" src="Problems%20-%20Codeforces_files/js"></script>
